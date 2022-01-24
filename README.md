@@ -13,3 +13,7 @@
 ## Languages
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankLA0203&theme=ayu-mirage)](https://github.com/Gbox4)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FrankLA0203&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
