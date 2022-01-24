@@ -1,7 +1,7 @@
 # ✨ FrankLA0203 ✨
 
 [![Age: 17](https://img.shields.io/badge/Age-17-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/February_3)
-[![School: YCISSH](https://img.shields.io/badge/School-YCISSH-green?style=for-the-badge)](https://ycis-sh.com)
+[![School: YCIS](https://img.shields.io/badge/School-YCIS-green?style=for-the-badge)](https://ycis-sh.com)
 
 - 🔭 I’m currently working on IB :( and my website
 - 🌱 I’m currently learning machine learning and operating systems
